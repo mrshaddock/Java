@@ -1,0 +1,1 @@
+a = "this is a test variables"print "tester is say: %s" % a
